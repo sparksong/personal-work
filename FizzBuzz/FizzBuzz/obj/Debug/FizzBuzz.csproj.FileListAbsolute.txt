@@ -1,0 +1,6 @@
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

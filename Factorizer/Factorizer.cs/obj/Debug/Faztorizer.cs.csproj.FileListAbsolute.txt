@@ -1,0 +1,7 @@
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\FlooringMastery\Faztorizer\Faztorizer.cs\bin\Debug\Faztorizer.cs.exe.config
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\Faztorizer\Faztorizer.cs\bin\Debug\Faztorizer.cs.exe.config
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\Faztorizer\Faztorizer.cs\bin\Debug\Faztorizer.cs.exe
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\Faztorizer\Faztorizer.cs\bin\Debug\Faztorizer.cs.pdb
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\Faztorizer\Faztorizer.cs\obj\Debug\Faztorizer.cs.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\Faztorizer\Faztorizer.cs\obj\Debug\Faztorizer.cs.exe
+C:\Users\apprentice\Documents\Repositories\justin-frederiksen-individual-work\Faztorizer\Faztorizer.cs\obj\Debug\Faztorizer.cs.pdb
