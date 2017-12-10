@@ -1,2 +1,3 @@
 # personal-work
-This is a repository that I will put personal projects into.
+
+This repository is intended for personal projects and testing out new languages.
